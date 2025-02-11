@@ -7,11 +7,11 @@ TODOLISTAPP is a simple and intuitive Android application designed to help users
 ## Features
 
 *   **Task Creation:** Easily add new tasks to your to-do list with a title and optional description.
-*   **Task Prioritization:**  (If you have this feature) Option to set priorities (e.g., high, medium, low) for tasks to focus on what's most important.  (If not, remove this line)
+*   **Task Prioritization:**  Option to set priorities (e.g., high, medium, low) for tasks to focus on what's most important.
 *   **Task Completion:** Mark tasks as complete with a simple tap, visually indicating progress.
 *   **Task Editing:** Modify existing tasks to update descriptions, priority, or other details.
 *   **Task Deletion:** Remove unwanted or completed tasks from the list.
-*   **List Organization:** (If you have categories or lists) Organize tasks into different lists or categories for better management. (If not, remove this line)
+*   **List Organization:** Organize tasks into different lists or categories for better management.
 *   **Persistent Storage:** Tasks are saved locally on the device, ensuring they are available even after closing the app.
 
 ## Tech Stack
@@ -38,9 +38,11 @@ TODOLISTAPP is a simple and intuitive Android application designed to help users
     ![Add Task Screen](https://github.com/kunaldevkar16/TO_DOLISTAPP/blob/main/two.png)
     ![Add Task Screen](https://github.com/kunaldevkar16/TO_DOLISTAPP/blob/main/three.png)
     ![Add Task Screen](https://github.com/kunaldevkar16/TO_DOLISTAPP/blob/main/four.png)
+    ![Add Task Screen](https://github.com/kunaldevkar16/TO_DOLISTAPP/blob/main/five.png)
+    ![Add Task Screen](https://github.com/kunaldevkar16/TO_DOLISTAPP/blob/main/six.png)
 
 ## Author Information
 
 *   **Name:** Kunal Devkar 
-  * Link: https://github.com/kunaldevkar16/TO_DOLISTAPP.git
+*   **Link: https://github.com/kunaldevkar16/TO_DOLISTAPP.git
 
