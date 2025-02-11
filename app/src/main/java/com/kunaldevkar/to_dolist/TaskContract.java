@@ -1,4 +1,4 @@
-package com.shivprakash.to_dolist;
+package com.kunaldevkar.to_dolist;
 import android.provider.BaseColumns;
 
 public class TaskContract {

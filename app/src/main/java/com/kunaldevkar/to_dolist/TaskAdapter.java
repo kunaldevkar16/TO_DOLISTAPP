@@ -1,4 +1,4 @@
-package com.shivprakash.to_dolist;
+package com.kunaldevkar.to_dolist;
 
 import android.content.Context;
 import android.view.LayoutInflater;

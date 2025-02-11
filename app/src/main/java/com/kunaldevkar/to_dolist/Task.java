@@ -1,4 +1,4 @@
-package com.shivprakash.to_dolist;
+package com.kunaldevkar.to_dolist;
 
 public class Task {
     private String taskName;

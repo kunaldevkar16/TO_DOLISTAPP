@@ -1,4 +1,4 @@
-package com.shivprakash.to_dolist;
+package com.kunaldevkar.to_dolist;
 
 import android.content.Context;
 
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
     public void useAppContext() {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getInstrumentation().getTargetContext();
-        assertEquals("com.shivprakash.to_dolist", appContext.getPackageName());
+        assertEquals("com.kunaldevkar.to_dolist", appContext.getPackageName());
     }
 }
