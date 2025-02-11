@@ -35,7 +35,9 @@ TODOLISTAPP is a simple and intuitive Android application designed to help users
 *   **Main Screen - To-Do List:**
     ![To-Do List Screen](https://github.com/kunaldevkar16/TO_DOLISTAPP/blob/main/one.png)
 *   **Add Task Screen:**
-    ![Add Task Screen](link/to/your/add_task_screenshot.png)
+    ![Add Task Screen](https://github.com/kunaldevkar16/TO_DOLISTAPP/blob/main/two.png)
+    ![Add Task Screen](https://github.com/kunaldevkar16/TO_DOLISTAPP/blob/main/three.png)
+    ![Add Task Screen](https://github.com/kunaldevkar16/TO_DOLISTAPP/blob/main/four.png)
 
 ## Author Information
 
